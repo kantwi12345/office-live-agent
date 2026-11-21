@@ -1,5 +1,5 @@
 @echo off
-cd /d C:\Users\Hulede\OfficeAgent
+cd /d C:\path\to\office-live-agent
 call .venv\Scripts\activate.bat
 python office_live.py
 pause
