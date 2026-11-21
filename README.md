@@ -64,6 +64,7 @@ Add a heading called Summary and two bullet points to the open Word document.
 Type `exit` to quit. To undo a change, press Ctrl+Z in the app, or close the document without saving.
 
 ## Notes
+© 2026 Michael Antwi. All rights reserved.
 
 - Opening, creating and saving only work inside the working folder. Documents you already have open can be edited wherever they are.
 - If OneDrive AutoSave is on for a file, edits are saved as they happen. Keep `CONFIRM_EDITS = True` in that case.
